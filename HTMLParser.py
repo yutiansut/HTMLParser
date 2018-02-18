@@ -8,7 +8,7 @@
 # and CDATA (character data -- only end tags are special).
 
 
-import markupbase
+import _markupbase as markupbase
 import re
 
 # Regular expressions used for parsing
